@@ -46,6 +46,7 @@ Swiss army knife for interacting with the BitShares blockchain.
       feeds                   Price Feed Overview
       getkey                  Obtain private key in WIF format
       history                 Show history of an account
+      importaccount           Import an account using an account password
       info                    Obtain all kinds of information
       listaccounts            List accounts (for the connected network)
       listkeys                List all keys (for all networks)
